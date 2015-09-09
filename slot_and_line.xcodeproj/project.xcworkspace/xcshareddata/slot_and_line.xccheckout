@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84DF3352-6A05-4F90-8BC2-F120BB435C0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>slot_and_line</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95DF81343A77F8954DA4202AF7A6AEDE13450F9B</key>
+		<string>https://github.com/aandroiderr/tsumu_slot</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>slot_and_line.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95DF81343A77F8954DA4202AF7A6AEDE13450F9B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aandroiderr/tsumu_slot</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95DF81343A77F8954DA4202AF7A6AEDE13450F9B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95DF81343A77F8954DA4202AF7A6AEDE13450F9B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>slot_and_line</string>
+		</dict>
+	</array>
+</dict>
+</plist>
